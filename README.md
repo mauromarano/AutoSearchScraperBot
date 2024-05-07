@@ -1,4 +1,4 @@
-# Autoscout Scraper and Bot
+# Auto Search Scraper Bot
 
 ## Descrizione
 Il progetto `AutoSearchScraperBot` è un'applicazione automatizzata che effettua lo scraping del sito di vendita di auto Autoscout. Utilizza URL personalizzati per cercare veicoli basandosi su specifici criteri come modello, marca, cilindrata, anno, e altri. Estrae i dati di ogni veicolo corrispondente alla ricerca, salva i risultati in un database e invia notifiche via Telegram con tutte le informazioni e foto delle auto trovate.
