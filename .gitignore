@@ -133,4 +133,4 @@ dist
 postgresql
 
 # config file
-./src/config.js
+src/config.js
