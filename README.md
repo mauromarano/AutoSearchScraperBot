@@ -1,7 +1,7 @@
 # Autoscout Scraper and Bot
 
 ## Descrizione
-Il progetto `autoscout_scraper_and_bot` è un'applicazione automatizzata che effettua lo scraping del sito di vendita di auto Autoscout. Utilizza URL personalizzati per cercare veicoli basandosi su specifici criteri come modello, marca, cilindrata, anno, e altri. Estrae i dati di ogni veicolo corrispondente alla ricerca, salva i risultati in un database e invia notifiche via Telegram con tutte le informazioni e foto delle auto trovate.
+Il progetto `AutoSearchScraperBot` è un'applicazione automatizzata che effettua lo scraping del sito di vendita di auto Autoscout. Utilizza URL personalizzati per cercare veicoli basandosi su specifici criteri come modello, marca, cilindrata, anno, e altri. Estrae i dati di ogni veicolo corrispondente alla ricerca, salva i risultati in un database e invia notifiche via Telegram con tutte le informazioni e foto delle auto trovate.
 
 ## Stack Tecnologico
 - **JavaScript**: Il linguaggio di programmazione principale usato per lo sviluppo del progetto.
@@ -17,7 +17,7 @@ Per avviare il progetto, seguire i seguenti passaggi:
 1. **Configurazione Iniziale**:
    - Clona il repository:
      ```
-     git clone https://github.com/tuo-username/autoscout_scraper_and_bot.git
+     git clone git@github.com:mauromarano/AutoSearchScraperBot.git
      ```
    - Rinomina `./src/example.config.js` in `./src/config.js`.
    - Configura le variabili necessarie nel `.src/config.js` per la connessione al database e l'integrazione con Telegram.
